@@ -1,7 +1,7 @@
 # Ruby-Sub-Strings
 
 ## 1. Description
-Ruby program that takes two input, a text and a dictionary of words. 
+A function that takes two argument, a text and a dictionary of words. 
 Checks if any of words in text matches the dictionary and returns 
 matching word and number of times it was found in hash listing. 
 
@@ -31,4 +31,4 @@ Using nested .each loop in the function feels messy.
     end
   end
 ```
-It dosen't have that <b>Ruby way!</b> feel to it. 
+It dosen't have that <b>Ruby way!</b> feel. 
